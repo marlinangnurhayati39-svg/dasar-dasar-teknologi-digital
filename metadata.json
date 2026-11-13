@@ -1,0 +1,8 @@
+{
+  "name": "Petualangan Dunia Digital",
+  "description": "Media pembelajaran interaktif Informatika kelas 4 SD bersama DIGI untuk belajar teknologi digital, sistem komputer, dan keamanan informasi pribadi sambil bermain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
